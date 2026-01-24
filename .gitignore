@@ -2,7 +2,8 @@
 notebooks/*.py
 
 # Ignora pendientes de acabar
-notebooks/Ejercicio_X*.ipynb
+notebooks/*.ipynb
+
 
 # Ignorar  *.xlsx en data
 data/*.xlsx
