@@ -2,8 +2,6 @@
 notebooks/*.py
 
 # Ignora pendientes de acabar
-notebooks/*.ipynb
-notebooks/*.png
 repo/
 
 # Ignorar  *.xlsx en data
