@@ -1,7 +1,7 @@
+.DS_Store
 
 # Ignorar *.py en la carpeta notebooks
 notebooks/*.py
-notebooks/.DS_Store
 
 # Ignora pendientes de acabar
 repo/
